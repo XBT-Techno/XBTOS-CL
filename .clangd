@@ -1,0 +1,10 @@
+CompileFlags:
+  Add:
+    - -IE:/x86_64-elf-tools-windows/x86_64-elf/include
+    - -IE:/x86_64-elf-tools-windows/lib/gcc/x86_64-elf/15.2.0/include
+    - -IE:/x86_64-elf-tools-windows/lib/gcc/x86_64-elf/15.2.0/include-fixed
+
+    - -ffreestanding
+    - -nostdlib
+    - -fno-exceptions
+    - -m32
