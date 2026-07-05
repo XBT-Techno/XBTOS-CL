@@ -1,0 +1,13 @@
+# CLion 构建目录
+cmake-build-debug/
+cmake-build-release/
+
+# 编译生成的二进制文件
+*.elf
+*.o
+*.bin
+*.iso
+
+# IDE 配置文件
+.idea/
+.vscode/
