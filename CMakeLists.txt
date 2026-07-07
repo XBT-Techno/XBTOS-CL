@@ -37,6 +37,9 @@ add_executable(XBTOS.elf
         kernel/memory/heap.cpp
         kernel/memory/heap.h
         kernel/memory/stdlib.cpp
+        kernel/fs/vfs.cpp
+        kernel/fs/vfs.h
+        kernel/include/string.h
 )
 
 target_include_directories(XBTOS.elf PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/kernel/include)
