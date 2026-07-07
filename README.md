@@ -98,18 +98,6 @@ Project_XBTOS-CL/
 
 ## 🤝 贡献指南 (Contributing)
 ### XBTOS 是一个持续演进的教育项目。如果你对其中的某个子系统（如 VFS 文件系统、进程调度）感兴趣，欢迎提交 Issue 或 Pull Request！
->>>>>>> 5b65755355476be0188f3443cefb9dd9e96f7170
-Fork 本仓库
-创建你的特性分支 (git checkout -b feature/AmazingFeature)
-提交更改 (git commit -m 'Add some AmazingFeature')
-推送到分支 (git push origin feature/AmazingFeature)
-开启一个 Pull Request
-<<<<<<< HEAD
-许可证 (License)
-本项目基于 MIT License 开源。欢迎学习、修改与分享！
-Made with ️ by 小白科技团队 (XiaoBai Tech Team)
-=======
 
 本项目基于 MIT License 开源。欢迎学习、修改与分享！
-XBT. Technology 2026
->>>>>>> 5b65755355476be0188f3443cefb9dd9e96f7170
+Made with ️ by 小白科技（XBT. Technology Studio）
